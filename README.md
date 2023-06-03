@@ -3,4 +3,4 @@
 - 👀 I know a puppy cries every time a pixel is not in the right place
 - 📫 You can email me at usero481@gmail.com
 
-I am a Mechanical Engineer specialized in 3D modeling who wants to change the career into front-end development.
+I am a Front-end Developer fascinated with web animations who doesn't want to stop learning 👨🏻‍💻
