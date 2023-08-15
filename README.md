@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juanjousero
-- 💻 I’m interested in technology, basketball, inline-skating, videogames and design
+- 💻 I’m interested in technology, hockey, basketball, videogames, reading and design
 - 👀 I know a puppy cries every time a pixel is not in the right place
 - 📫 You can email me at usero481@gmail.com
 
